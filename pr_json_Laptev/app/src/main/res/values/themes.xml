@@ -1,0 +1,7 @@
+<resources>
+    <style name="Base.Theme.PrJsonLaptev" parent="Theme.AppCompat.DayNight">
+        <item name="colorPrimary">@color/gray</item>
+        <item name="colorAccent">@color/darkGray</item>
+    </style>
+    <style name="Theme.PrJsonLaptev" parent="Base.Theme.PrJsonLaptev" />
+</resources>

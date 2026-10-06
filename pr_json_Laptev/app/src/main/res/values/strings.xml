@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Работа с JSON (Лаптев)</string>
+    <string name="title">Практическая работа: JSON</string>
+    <string name="label_name">Название товара:</string>
+    <string name="label_price">Цена:</string>
+    <string name="label_tags">Теги через запятую:</string>
+    <string name="label_json">JSON строка:</string>
+    <string name="label_result">Результат:</string>
+    <string name="btn_serialize">Сериализовать в JSON</string>
+    <string name="btn_deserialize">Десериализовать JSON</string>
+    <string name="btn_clear">Очистить</string>
+    <string name="result_default">Результат появится здесь</string>
+    <string name="toast_fill_fields">Заполните название и цену</string>
+    <string name="toast_json_empty">Поле JSON пустое</string>
+    <string name="toast_serialized">JSON сформирован</string>
+    <string name="toast_deserialized">Десериализация выполнена</string>
+    <string name="toast_error">Ошибка разбора JSON</string>
+</resources>
